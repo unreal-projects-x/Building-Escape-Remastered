@@ -1,0 +1,128 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "BuildingEscapeX (Debug)",
+			"request": "launch",
+			"preLaunchTask": "BuildingEscapeX Win64 Debug Build",
+			"program": "F:\\UNREAL REMASTERED\\Building Escape\\Building Escape Remastered\\BuildingEscapeX\\Binaries\\Win64\\UE4-Win64-Debug.exe",
+			"args": [
+			],
+			"cwd": "E:\\Program Files (x86)\\Unreal\\UE_4.24",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "E:\\Program Files (x86)\\Unreal\\UE_4.24\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "BuildingEscapeX (DebugGame)",
+			"request": "launch",
+			"preLaunchTask": "BuildingEscapeX Win64 DebugGame Build",
+			"program": "F:\\UNREAL REMASTERED\\Building Escape\\Building Escape Remastered\\BuildingEscapeX\\Binaries\\Win64\\UE4-Win64-DebugGame.exe",
+			"args": [
+			],
+			"cwd": "E:\\Program Files (x86)\\Unreal\\UE_4.24",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "E:\\Program Files (x86)\\Unreal\\UE_4.24\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "BuildingEscapeX (Development)",
+			"request": "launch",
+			"preLaunchTask": "BuildingEscapeX Win64 Development Build",
+			"program": "F:\\UNREAL REMASTERED\\Building Escape\\Building Escape Remastered\\BuildingEscapeX\\Binaries\\Win64\\UE4.exe",
+			"args": [
+			],
+			"cwd": "E:\\Program Files (x86)\\Unreal\\UE_4.24",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "E:\\Program Files (x86)\\Unreal\\UE_4.24\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "BuildingEscapeX (Shipping)",
+			"request": "launch",
+			"preLaunchTask": "BuildingEscapeX Win64 Shipping Build",
+			"program": "F:\\UNREAL REMASTERED\\Building Escape\\Building Escape Remastered\\BuildingEscapeX\\Binaries\\Win64\\UE4-Win64-Shipping.exe",
+			"args": [
+			],
+			"cwd": "E:\\Program Files (x86)\\Unreal\\UE_4.24",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "E:\\Program Files (x86)\\Unreal\\UE_4.24\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "BuildingEscapeX (Test)",
+			"request": "launch",
+			"preLaunchTask": "BuildingEscapeX Win64 Test Build",
+			"program": "F:\\UNREAL REMASTERED\\Building Escape\\Building Escape Remastered\\BuildingEscapeX\\Binaries\\Win64\\UE4-Win64-Test.exe",
+			"args": [
+			],
+			"cwd": "E:\\Program Files (x86)\\Unreal\\UE_4.24",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "E:\\Program Files (x86)\\Unreal\\UE_4.24\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "BuildingEscapeXEditor (Debug)",
+			"request": "launch",
+			"preLaunchTask": "BuildingEscapeXEditor Win64 Debug Build",
+			"program": "E:\\Program Files (x86)\\Unreal\\UE_4.24\\Engine\\Binaries\\Win64\\UE4Editor-Win64-Debug.exe",
+			"args": [
+				"F:\\UNREAL REMASTERED\\Building Escape\\Building Escape Remastered\\BuildingEscapeX\\BuildingEscapeX.uproject"
+			],
+			"cwd": "E:\\Program Files (x86)\\Unreal\\UE_4.24",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "E:\\Program Files (x86)\\Unreal\\UE_4.24\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "BuildingEscapeXEditor (DebugGame)",
+			"request": "launch",
+			"preLaunchTask": "BuildingEscapeXEditor Win64 DebugGame Build",
+			"program": "E:\\Program Files (x86)\\Unreal\\UE_4.24\\Engine\\Binaries\\Win64\\UE4Editor-Win64-DebugGame.exe",
+			"args": [
+				"F:\\UNREAL REMASTERED\\Building Escape\\Building Escape Remastered\\BuildingEscapeX\\BuildingEscapeX.uproject"
+			],
+			"cwd": "E:\\Program Files (x86)\\Unreal\\UE_4.24",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "E:\\Program Files (x86)\\Unreal\\UE_4.24\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "BuildingEscapeXEditor (Development)",
+			"request": "launch",
+			"preLaunchTask": "BuildingEscapeXEditor Win64 Development Build",
+			"program": "E:\\Program Files (x86)\\Unreal\\UE_4.24\\Engine\\Binaries\\Win64\\UE4Editor.exe",
+			"args": [
+				"F:\\UNREAL REMASTERED\\Building Escape\\Building Escape Remastered\\BuildingEscapeX\\BuildingEscapeX.uproject"
+			],
+			"cwd": "E:\\Program Files (x86)\\Unreal\\UE_4.24",
+			"stopAtEntry": false,
+			"externalConsole": true,
+			"type": "cppvsdbg",
+			"visualizerFile": "E:\\Program Files (x86)\\Unreal\\UE_4.24\\Engine\\Extras\\VisualStudioDebugging\\UE4.natvis"
+		},
+		{
+			"name": "Generate Project Files",
+			"type": "clr",
+			"request": "launch",
+			"program": "E:\\Program Files (x86)\\Unreal\\UE_4.24\\Engine\\Binaries\\DotNET\\UnrealBuildTool.exe",
+			"console": "externalTerminal",
+			"args": [
+				"-projectfiles",
+				"-vscode",
+				"-project=\"F:\\UNREAL REMASTERED\\Building Escape\\Building Escape Remastered\\BuildingEscapeX\\BuildingEscapeX.uproject\"",
+				"-game",
+				"-engine"
+			],
+			"internalConsoleOptions": "openOnSessionStart",
+			"cwd": "E:\\Program Files (x86)\\Unreal\\UE_4.24"
+		}
+	]
+}
