@@ -2,6 +2,7 @@
 	"files.exclude": {
 		"F:/UNREAL REMASTERED/Building Escape/Building Escape Remastered/BuildingEscapeX/.vscode": true,
 		"F:/UNREAL REMASTERED/Building Escape/Building Escape Remastered/BuildingEscapeX/Content": true,
-		"F:/UNREAL REMASTERED/Building Escape/Building Escape Remastered/BuildingEscapeX/Intermediate": true
+		"F:/UNREAL REMASTERED/Building Escape/Building Escape Remastered/BuildingEscapeX/Intermediate": true,
+		"F:/UNREAL REMASTERED/Building Escape/Building Escape Remastered/BuildingEscapeX/Saved": true
 	}
 }
