@@ -26,5 +26,10 @@ public:
 
 		
 private:
-	FRotator NewRotation;		
+	float InitialYaw;
+	float CurrentYaw;
+
+	UPROPERTY(EditAnywhere)
+	float TargetYaw = 90.f;
+	
 };
